@@ -1,0 +1,22 @@
+{
+  "name": "cloudshell-usermanagement",
+  "version": "1.0.0",
+  "description": "managing google cloud shell user ",
+  "main": "main.sh",
+  "scripts": {
+    "test": "./main.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allyelvis/cloudshell-usermanagement.git"
+  },
+  "keywords": [
+    "shell"
+  ],
+  "author": "Ally Elvis Nzeyimana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allyelvis/cloudshell-usermanagement/issues"
+  },
+  "homepage": "https://github.com/allyelvis/cloudshell-usermanagement#readme"
+}
